@@ -1,0 +1,27 @@
+body {
+  background-image: url('../images/bg_beatles.jpg');
+  background-position: left center;
+  height: 600px;
+}
+
+.center {
+  text-align: center;
+}
+
+#kittykat {
+  top: 375px;
+}
+
+button {
+  background-color: #444;
+  color: #FFF;
+  font-weight: bold;
+  margin: 5px;
+  padding: 5px;
+  width: 100px;
+}
+
+button:hover {
+  background-color: #FFF;
+  color: #444;
+}
